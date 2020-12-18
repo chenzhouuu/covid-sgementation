@@ -1,0 +1,1 @@
+This is the project of IE582. The project refined and implemented UNet and UNet++ model for the COVID-19 CT image segmentation analysis task. The dataset in https://www.kaggle.com/c/covid-segmentation/data is utilized for this project. Please upload all the files into Google Drive and run the experiment.ipynb file to see the results.
